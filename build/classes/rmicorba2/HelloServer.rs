@@ -1,0 +1,2 @@
+rmicorba2.HelloServant
+rmicorba2.HelloServer
